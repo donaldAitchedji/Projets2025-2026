@@ -1,0 +1,6 @@
+Ce que tu dois savoir faire en étant pour le moment robotics software engineer
+
+-Git et GitHub : tous les projets sur lesquels tu as travaillé doivent documentés correctement et disponibles sur ton github 
+-une page notion pour chaque projet 
+
+Pour tes idées de projets, va dans tes passions et vois tes recherches, va dans Robotique Apprentissage et relis les documents utilisés pour chaque apprentissage. Tu y trouveras des idées de projets. 
